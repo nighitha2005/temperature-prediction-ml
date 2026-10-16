@@ -1,1 +1,2 @@
-# temperature-prediction-ml
+# Temperature_Prediction
+Temperature Prediction using Machine Learning and Linear Regression
